@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [wooorm/linked-list](http://github.com/wooorm/linked-list). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/wooorm-linked-list`. Please do not open issues or send pull requests against this repo. If you have issues with this repo, report it to [npmcomponent](https://github.com/airportyh/npmcomponent).*
 # Linked List
 
 **linked-list** provides minimalistic [linked](http://blog.millermedeiros.com/linked-lists) [lists](http://wikipedia.org/wiki/Linked_list) in JavaScript. No dependencies. NodeJS, AMD, browser. Lots of tests (70+). 653 Bytes minified and gzipped.
